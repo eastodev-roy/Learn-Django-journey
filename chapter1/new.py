@@ -1,0 +1,1 @@
+print ("wellcome to python learning jounary!!")
